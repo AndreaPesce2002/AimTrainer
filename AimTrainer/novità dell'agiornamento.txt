@@ -1,0 +1,3 @@
+novità dell'agiornamento 2.0:
+    introduzione del file "novità dell'agiornamento.txt"
+    inserimento difficoltà
